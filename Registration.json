@@ -1,0 +1,49 @@
+{
+    "Student": [
+        {
+            "Student id": "191-15-12362",
+            "Student name": "Ashiq",
+            "Section": "O10",
+            "Courses": [
+                "CSE131",
+                "CSE132",
+                "CSE145"
+            ],
+            "Registration status": "Pending"
+        },
+        {
+            "Student id": "191-15-12798",
+            "Student name": "Nabil Newaz",
+            "Section": "O9",
+            "Courses": [
+                "CSE131",
+                "CSE132",
+                "CSE133",
+                "GED131"
+            ],
+            "Registration status": "Partially Complete"
+        },
+        {
+            "Student id": "191-15-12753",
+            "Student name": "Ovijit Shinha",
+            "Section": "O10",
+            "Courses": [
+                "CSE125",
+                "CSE556",
+                "CSE246"
+            ],
+            "Registration status": "Complete"
+        },
+        {
+            "Student id": "191-15-12753",
+            "Student name": "Sakibullah",
+            "Section": "O10",
+            "Courses": [
+                "CSE456",
+                "GED798",
+                "MAT123"
+            ],
+            "Registration status": "Pending"
+        }
+    ]
+}
